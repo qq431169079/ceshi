@@ -504,4 +504,4 @@ systemctl daemon-reload
 
 # Final steps
 fuECHO "### Thanks for your patience. Now rebooting. Remember to login on SSH port 64295 next time or visit dashboard at port 64297!"
-mv $cwdir/etc/rc.local /etc/rc.local && rm -rf $cwdir && sleep 2 &&reboot
+mv $cwdir/etc/rc.local /etc/rc.local && sleep 2 &&reboot
