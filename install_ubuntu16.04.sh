@@ -33,7 +33,7 @@ fuRANDOMWORD () {
 fuECHO ""
 echo "
 ##########################################################
-# T-Pot 16.10 install script                             #
+# hyperboreus install script                             #
 # for Ubuntu server 16.04.0x, x64                        #
 ##########################################################
 Make sure the key-based SSH login for your normal user is working!
